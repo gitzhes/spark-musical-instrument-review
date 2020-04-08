@@ -40,5 +40,5 @@ Thumbs.db
 #####################
 .idea/
 target/
-*/target/
+project/target/
 
