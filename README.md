@@ -11,7 +11,7 @@ The spark program contains code for Question 1 on finding the top 10 products ba
 ## Build the project
 >#build "fat" jar with classes and all dependencies under
 >
->#"spark-musical-instrument-review/target/scala-2.11/spark-musical-instrument-review-assembly-0.1.jar"
+>#"target/scala-2.11/spark-musical-instrument-review-assembly-0.1.jar"
 >
 >#go to project folder
 >
@@ -23,7 +23,7 @@ The spark program contains code for Question 1 on finding the top 10 products ba
 >
 >sbt packages
 >
->#compiled jar at "spark-musical-instrument-review/target/scala-2.11/spark-musical-instrument-review_2.11-0.1.jar
+>#compiled jar at "target/scala-2.11/spark-musical-instrument-review_2.11-0.1.jar
 
 ## Run the program
 > There are 3 required arguments to run spark-submit \
